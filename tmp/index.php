@@ -42,7 +42,7 @@
                             <input type="checkbox" name="check" id="check" class="form-check-input" value="0">
                         </div>
                         <div class="input-group-append mb-3">
-                            <button id="create_post" class="btn btn-success">Добавить</button>
+                            <button id="create_post" class="btn btn-success">Отправить</button>
                         </div>
 
                     </div>
